@@ -110,7 +110,7 @@ def main():
     logging.info('Successfully created token: {}'.format(myToken))
     #allReportTemps = getAllReportTemplates(headers)
     #print(allReportTemps)
-    #reportsToFind = 'Omer_test,omer_test,20150205_Aakaash,nick_test'
+    #reportsToFind = 'nick_test'
     #specificReports = getSpecificReport(reportsToFind,allReportTemps,headers)
     #print(specificReports)
     #res = lookup_test(headers)
