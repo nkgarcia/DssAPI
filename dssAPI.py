@@ -10,7 +10,7 @@ import logging
 import requests as rq
 import sys
 
-_un,_pw = "9001698","Axioma01"
+_un,_pw = "dummy_un","dummy_pw"
 _headers = {'Prefer':'respond-async','Content-Type': 'application/json; odata.metadata=minimal'}
 _credentials={'Credentials':{ 'Password':_pw,'Username':_un } }
 
